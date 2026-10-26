@@ -10,7 +10,14 @@ How to use firmware:
 5. Download firmware for arduino and files from github
 6. cd Desktop python drum_app.py
 
+
+#Aim
+<img width="369" height="369" alt="rolspd30_3" src="https://github.com/user-attachments/assets/fe06e2ba-0cb3-4896-8c2e-f72734d1763d" />
+2. make some drum sticks covered in copper take so it touches your skin and also touch the copper drum pads
+
 <img width="1142" height="650" alt="Screenshot 2026-10-26 035049" src="https://github.com/user-attachments/assets/0f70f827-331c-4753-bdd3-8671fdecf3cd" />
+<img width="1686" height="768" alt="Screenshot 2026-10-26 030059" src="https://github.com/user-attachments/assets/3569107c-cbef-4de3-8877-d320e303cf0b" />
+<img width="954" height="726" alt="Screenshot 2026-10-26 030856" src="https://github.com/user-attachments/assets/7c9a8fb2-4f19-436a-8138-c2b839ac298b" />
 <img width="1133" height="712" alt="Screenshot 2026-10-26 035054" src="https://github.com/user-attachments/assets/81ddcc80-d661-4a89-bb0d-e67bd6c295b7" />
 <img width="1021" height="684" alt="Screenshot 2026-10-26 035057" src="https://github.com/user-attachments/assets/bee9e818-321b-4390-8fc8-f47308cfc345" />
 <img width="1057" height="603" alt="Screenshot 2026-10-26 035101" src="https://github.com/user-attachments/assets/5b4d8ac0-6f6b-4b5a-aa95-1448c2ff6cc7" />
