@@ -8,7 +8,9 @@ How to use firmware:
 3. pip install PySide6 sounddevice soundfile numpy pyserial
 4. pip install PySide6 pygame pyserial
 5. Download firmware for arduino and files from github
-6. cd Desktop python drum_app.py
+6. In Arduino IDE, install the Adafruit MPR121 library and install the txt. file from the github
+7. just download python into pc
+8. cd Desktop python drum_app.py
 
 
 #Aim
