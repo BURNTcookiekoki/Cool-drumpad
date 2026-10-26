@@ -2,6 +2,14 @@
 
 This design includes 9 panels dedicated for drum samples and 3 buttons to record, loop, and discard your drum samples. To know if you recording a led will light up when pressing record and after you finish just press the record button again and press loop to start looping the record and finally to stop just hit discard.
 
+How to use firmware:
+1. Install python
+2. Install Arduino
+3. pip install PySide6 sounddevice soundfile numpy pyserial
+4. pip install PySide6 pygame pyserial
+5. Download firmware for arduino and files from github
+6. cd Desktop python drum_app.py
+
 <img width="1142" height="650" alt="Screenshot 2026-10-26 035049" src="https://github.com/user-attachments/assets/0f70f827-331c-4753-bdd3-8671fdecf3cd" />
 <img width="1133" height="712" alt="Screenshot 2026-10-26 035054" src="https://github.com/user-attachments/assets/81ddcc80-d661-4a89-bb0d-e67bd6c295b7" />
 <img width="1021" height="684" alt="Screenshot 2026-10-26 035057" src="https://github.com/user-attachments/assets/bee9e818-321b-4390-8fc8-f47308cfc345" />
